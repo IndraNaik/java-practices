@@ -1,4 +1,4 @@
-package org.example.Exercises;
+package org.example.ChapterOne;
 
 import java.util.Scanner;
 
